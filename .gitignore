@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+#Document Files
+*.hwp
+*.hwpx
+*.pdf
+/과제 제출 문서
+
 # C extensions
 *.so
 
